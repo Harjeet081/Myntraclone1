@@ -1,7 +1,7 @@
 const items = [
     {
         id: '001',
-        image: 'images/beauty/b1.jpeg',
+        image: 'images/beauty/b1.webp',
         company: 'Lakme',
         item_name: 'Lip Love Lip Care-Strawberry',
         original_price: 160,
@@ -16,7 +16,7 @@ const items = [
     },
     {
         id: '002',
-        image: 'images/beauty/b2.jpeg',
+        image: 'images/beauty/b2.webp',
         company: 'Olay',
         item_name: 'Cream with UV Protection',
         original_price: 199,
@@ -31,7 +31,7 @@ const items = [
     },
     {
         id: '003',
-        image: 'images/beauty/b3.jpeg',
+        image: 'images/beauty/b3.webp',
         company: 'Biotique',
         item_name: 'Skin Mositurizer 190ml',
         original_price: 330,
@@ -46,7 +46,7 @@ const items = [
     },
     {
         id: '004',
-        image: 'images/beauty/b4.jpeg',
+        image: 'images/beauty/b4.webp',
         company: 'Lotus Herbals',
         item_name: 'Sustainable WhiteGlow Tight..',
         original_price:295,
@@ -61,7 +61,7 @@ const items = [
     },
     {
         id: '005',
-        image: 'images/beauty/b5.jpeg',
+        image: 'images/beauty/b5.webp',
         company: 'Lakeme',
         item_name: 'Lumi Skin Cream 30g',
         original_price: 299,
@@ -76,7 +76,7 @@ const items = [
     },
 {
         id: '006',
-        image: 'images/beauty/b6.jpeg',
+        image: 'images/beauty/b6.webp',
         company: 'Secret Temptation',
         item_name: 'Women Romance Eau De Parf...',
         original_price: 699,
@@ -91,7 +91,7 @@ const items = [
     },
     {
         id: '007',
-        image: 'images/beauty/b7.jpeg',
+        image: 'images/beauty/b7.webp',
         company: 'SKINN',
         item_name: 'Women Celeste EDP 20 ml',
         original_price: 645,
@@ -104,7 +104,7 @@ const items = [
     },
     {
         id: '008',
-        image: 'images/beauty/b8.jpeg',
+        image: 'images/beauty/b8.webp',
         company: 'Renee',
         item_name: 'Women Bloom EDP-50 ml',
         original_price: 599,

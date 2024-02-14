@@ -1,7 +1,7 @@
 const items = [
     {
         id: '001',
-        image: 'images/kid/k-1.jpeg',
+        image: 'images/kid/k-1.webp',
         company: 'Bold N Elegant',
         item_name: 'Kids Cloting Set',
         original_price: 1999,
@@ -16,7 +16,7 @@ const items = [
     },
     {
         id: '002',
-        image: 'images/kid/k-2.jpeg',
+        image: 'images/kid/k-2.webp',
         company: 'Googo Gaaga',
         item_name: 'Pure Cotton T-Shirt & Trousers',
         original_price: 1400,
@@ -31,7 +31,7 @@ const items = [
     },
     {
         id: '003',
-        image: 'images/kid/k-3.jpeg',
+        image: 'images/kid/k-3.webp',
         company: 'Googo Gaaga',
         item_name: 'Boys Printed Top with Trousers',
         original_price: 1400,
@@ -46,7 +46,7 @@ const items = [
     },
     {
         id: '004',
-        image: 'images/kid/k-4.jpeg',
+        image: 'images/kid/k-4.webp',
         company: 'BUMZEE',
         item_name: 'Infants Cotton Clothing Set',
         original_price:1007,
@@ -61,7 +61,7 @@ const items = [
     },
     {
         id: '005',
-        image: 'images/kid/k-5.jpeg',
+        image: 'images/kid/k-5.webp',
         company: 'DukieKooky',
         item_name: 'Kids Scarfy Penguin Soft Toy',
         original_price: 1299,
@@ -76,7 +76,7 @@ const items = [
     },
 {
         id: '006',
-        image: 'images/kid/k-6.jpeg',
+        image: 'images/kid/k-6.webp',
         company: 'DukieKooky',
         item_name: 'Kids Cute Teddy Soft Toy',
         original_price: 999,
@@ -91,7 +91,7 @@ const items = [
     },
     {
         id: '007',
-        image: 'images/kid/k-7.jpeg',
+        image: 'images/kid/k-7.webp',
         company: 'DearJoy',
         item_name: 'Kids Elephant & Monkey Soft…',
         original_price: 1000,
@@ -104,7 +104,7 @@ const items = [
     },
     {
         id: '008',
-        image: 'images/kid/k-8.jpeg',
+        image: 'images/kid/k-8.webp',
         company: 'SKYLOFTS',
         item_name: 'Kids Dancing Cactus Toy',
         original_price: 1499,

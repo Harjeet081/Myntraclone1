@@ -1,7 +1,7 @@
 const items = [
     {
         id: '001',
-        image: 'images/women/w1.jpeg',
+        image: 'images/women/w1.webp',
         company: 'FASHOR',
         item_name: 'Women Kurta with Trousers',
         original_price: 3499,
@@ -16,7 +16,7 @@ const items = [
     },
     {
         id: '002',
-        image: 'images/women/w2.jpeg',
+        image: 'images/women/w2.webp',
         company: 'KALINI',
         item_name: 'Kurta with Trousers & Dupatta',
         original_price: 4345,
@@ -31,7 +31,7 @@ const items = [
     },
     {
         id: '003',
-        image: 'images/women/w3.jpeg',
+        image: 'images/women/w3.webp',
         company: 'KALINI',
         item_name: 'Women Design Kurta Set',
         original_price: 7999,
@@ -46,7 +46,7 @@ const items = [
     },
     {
         id: '004',
-        image: 'images/women/w4.jpeg',
+        image: 'images/women/w4.webp',
         company: 'Indo Era',
         item_name: 'Women Embroidered Kurta....',
         original_price: 6999,
@@ -61,7 +61,7 @@ const items = [
     },
     {
         id: '005',
-        image: 'images/women/w5.jpeg',
+        image: 'images/women/w5.webp',
         company: 'Indro Era',
         item_name: 'Women Yoke Design Kurta Set',
         original_price: 3999,
@@ -76,7 +76,7 @@ const items = [
     },
     {
         id: '006',
-        image: 'images/women/w6.jpeg',
+        image: 'images/women/w6.webp',
         company: 'Sangria',
         item_name: 'Kurta With Trouser & Dupatta',
         original_price: 4200,
@@ -91,7 +91,7 @@ const items = [
     },
     {
         id: '007',
-        image: 'images/women/w7.jpeg',
+        image: 'images/women/w7.webp',
         company: 'SASSAFRAS',
         item_name: 'Women Straight Fit Cargo Jeans',
         original_price: 2498,
@@ -104,7 +104,7 @@ const items = [
     },
     {
         id: '008',
-        image: 'images/women/w9.jpeg',
+        image: 'images/women/w9.webp',
         company: 'Levis',
         item_name: 'Women Skinny Fit Jeans',
         original_price: 3199,
